@@ -35,7 +35,7 @@ Projeto desenvolvido durante a **Imersão Front-End da Alura**, onde criei um co
 
 Feito com 💙 por Evelyn Samantha Fernandes.
 
-- [LinkedIn](www.linkedin.com/in/evelyn-samantha-fernandes-de-souza)
+- [LinkedIn](https://www.linkedin.com/in/evelyn-samantha-fernandes-de-souza)
 - [GitHub](https://github.com/EvelynSamanthaFernandes)
 
 ---
