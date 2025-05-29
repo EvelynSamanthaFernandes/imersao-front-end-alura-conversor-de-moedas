@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conversor de moedas </title>
+ <link rel="icon" href="src/icone.png" type="image/png">
+  <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+  <img src="https://i.postimg.cc/GpCxYmvc/title.png" alt="Logo" class="logo">
+
+  <div class="container">
+    <div class="content">
+      <h2>Conversor de moedas</h2>
+      <p> Converta o valor em Reais para Dólar ou Euro</p>
+      <input type="number" id=valor placeholder = "Informe o valor para converter" > 
+      </br>
+      
+      <button onclick="conversor()">Dólar</button>
+
+       <button onclick="conversor1()"> Euro</button>
+    
+    <p id="resultado"></p>
+     <p id="mensagem"></p>
+    <button onclick="limparCampos()">Limpar</button>  
+
+    </div>
+  </div>
+
+<script src="script.js"></script>
+  <footer>Alura - Imersão DEV - 2025</footer>
+
+  
+</body>
+
+</html>

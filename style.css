@@ -1,0 +1,79 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  color: white;
+  position: relative;
+  background: url("./src/fundo.png") no-repeat center center/cover;
+}
+
+.logo {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  max-width: 150px;
+  width: auto;
+}
+
+.container {
+  background: url("./src/fundo.png") no-repeat center center/cover;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  text-align: center;
+  background-color: rgba(21, 20, 62, 0.9);
+  padding: 20px 40px;
+  border-radius: 8px;
+  width: 80%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.content h2 {
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #fba93b;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2em;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin: 10px;
+  border-radius: 14px;
+  width: 33%;
+}
+
+button:hover {
+  background-color: #2922e7;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+}
+
+input[type="number"] {
+  padding: 10px;
+  width: 85%;
+  max-width: 400px;
+  margin: 10px auto;
+  display: block;
+  border: 2px solid #8b7d70;
+  border-radius: 5px;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+#resultado {
+  text-align: center;
+  font-size: 1.2em;
+  margin-top: 15px;
+}
