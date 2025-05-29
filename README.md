@@ -23,6 +23,8 @@ Projeto desenvolvido durante a **Imersão Front-End da Alura**, onde criei um co
 
 ---
 
+Veja o projeto funcionando ao vivo aqui: [Conversor de Moedas no Netlify](https://conversorsimplesdemoeda.netlify.app/)
+
 ## Tecnologias usadas
 
 - HTML5
