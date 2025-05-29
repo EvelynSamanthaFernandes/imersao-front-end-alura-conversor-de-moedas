@@ -8,7 +8,7 @@ Projeto desenvolvido durante a **Imersão Front-End da Alura**, onde criei um co
 
 ## Funcionalidades
 
-- Conversão entre diferentes moedas com base em taxas fixas.
+- Conversão para Dólar e Euro com base em taxas fixas.
 - Interface simples e intuitiva.
 - Feedback visual com cores e ícones.
 - Design responsivo para diferentes dispositivos.
@@ -19,8 +19,7 @@ Projeto desenvolvido durante a **Imersão Front-End da Alura**, onde criei um co
 
 1. Abra o arquivo `index.html` no seu navegador.
 2. Digite o valor que deseja converter.
-3. Escolha as moedas de origem e destino.
-4. Clique em “Converter” para ver o resultado.
+3. Clique em “Converter” para ver o resultado.
 
 ---
 
@@ -36,7 +35,7 @@ Projeto desenvolvido durante a **Imersão Front-End da Alura**, onde criei um co
 
 Feito com 💙 por Evelyn Samantha Fernandes.
 
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin) (adicione seu link)
+- [LinkedIn](www.linkedin.com/in/evelyn-samantha-fernandes-de-souza)
 - [GitHub](https://github.com/EvelynSamanthaFernandes)
 
 ---
